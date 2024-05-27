@@ -33,19 +33,4 @@ The process is repeated for each image in the path directory.
 
 4. ML Task
 
-With the text extracted from the memes I tried running the code Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text and got the following results: 
-
-Epoch 1/7
-2/2 [==============================] - 12s 9s/step - loss: 0.7925 - accuracy: 0.6406 - val_loss: 0.6887 - val_accuracy: 0.5839
-Epoch 2/7
-2/2 [==============================] - 10s 9s/step - loss: 0.8029 - accuracy: 0.6094 - val_loss: 0.6674 - val_accuracy: 0.6980
-Epoch 3/7
-2/2 [==============================] - 9s 9s/step - loss: 0.8388 - accuracy: 0.5156 - val_loss: 0.6889 - val_accuracy: 0.5839
-Epoch 4/7
-2/2 [==============================] - 7s 7s/step - loss: 0.8002 - accuracy: 0.6094 - val_loss: 0.6911 - val_accuracy: 0.6980
-Epoch 5/7
-2/2 [==============================] - 5s 5s/step - loss: 0.8015 - accuracy: 0.6094 - val_loss: 0.6929 - val_accuracy: 0.5839
-Epoch 6/7
-2/2 [==============================] - 5s 5s/step - loss: 0.7744 - accuracy: 0.7031 - val_loss: 0.6882 - val_accuracy: 0.6980
-Epoch 7/7
-2/2 [==============================] - 5s 5s/step - loss: 0.8004 - accuracy: 0.6094 - val_loss: 0.6878 - val_accuracy: 0.5839
+With the text extracted from the memes I tried running the code Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text.
