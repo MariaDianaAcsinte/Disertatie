@@ -8,7 +8,7 @@ because the jpeg or png dataset would have been too large to upload to a web hos
 I converted all jpg/jpeg or png files to urls and saved the list, then inserted them into a MySQL database, 
 simplifying data management and preparing them for later use in the annotation platform.
 
-2. Annotation platform
+2. Annotation platform ( http://dizertatie.great-site.net/?i=1 )
 
 In order to display memes, the code connects to a MySQL database, starts a PHP session for user authentication, and determines whether the user is logged in.
 Random memes are chosen, users are questioned about them, the answers are saved, new memes are displayed, and the connection is closed. 
