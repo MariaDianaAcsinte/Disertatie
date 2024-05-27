@@ -33,4 +33,5 @@ The process is repeated for each image in the path directory.
 
 4. ML Task
 
-With the text extracted from the memes I tried running the code Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text.
+With the text extracted from the memes I tried running the code Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text. (https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text/blob/master/CNN_text_VGG16.ipynb)
+
